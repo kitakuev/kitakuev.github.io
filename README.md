@@ -9,7 +9,7 @@ mit der Leitung und dem Personal der
 Kindertageseinrichtung eine engagierte
 Vereinsarbeit. So konnten und können wir eine
 Vielzahl von Projekten realisieren.
-Der Verein
+### Der Verein
 KiTaKu e.V. hat zur Zeit rund 70 Mitglieder. Dies
 sind vor allem Eltern von Kindern, die aktuell die
 Kindertageseinrichtung besuchen, aber z.B. auch
@@ -21,7 +21,7 @@ Das Geschäftsjahr des Fördervereins ist das Kita-Jahr
 und endet jeweils am 31. August. Einmal im Jahr
 findet die Vollversammlung statt, zu der alle
 Mitglieder herzlich eingeladen sind.
-Enge Zusammenarbeit
+### Enge Zusammenarbeit
 Wir arbeiten eng mit dem Elternrat der Einrichtung
 zusammen und schaffen so eine hohe
 Informationsdichte für alle Eltern.
@@ -42,7 +42,8 @@ bedruckten T-Shirts für das richtige Bühnenoutfit.
 Schulkinder auf die Grundschule vor. Auch hier
 unterstützt der Förderverein mit T-Shirts und Taschen.
 * Die Kuithan-Kids sind unsere Kita-Fußballmannschaft.
-Weitere Projekte und Aktionen
+
+### Weitere Projekte und Aktionen
 Weiterhin freuen wir uns immer über Projekte und
 Aktionen, die wir unterstützen und initiieren können. Das
 sind z.B.
@@ -53,6 +54,7 @@ Woche bei uns gastierte
 Karussell in der Turnhalle oder viele Fahrzeuge, mit
 dem die Kinder über das Außengelände flitzen
 können)
+
 Über aktuelle Aktionen informieren wir u.a. über die
 sogenannte Elternwand im Eingangsbereich oder per
 Rundmail.
