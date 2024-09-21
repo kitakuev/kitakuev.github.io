@@ -34,22 +34,22 @@ können, schnell und unbürokratisch begleitet.
 Wir unterstützen fortlaufend folgende Projekte, damit
 diese zuverlässig und kontinuierlich durchgeführt werden
 können.
- MusiKuss ist ein Kinderchorprojekt, bei dem die
+* MusiKuss ist ein Kinderchorprojekt, bei dem die
 Kinder z.B. Auftritte haben. Der Förderverein versorgt
 die kleinen Künstlerinnen und Künstler dabei mit
 bedruckten T-Shirts für das richtige Bühnenoutfit.
- Die Da Vinci-Gruppe bereitet unsere zukünftigen
+* Die Da Vinci-Gruppe bereitet unsere zukünftigen
 Schulkinder auf die Grundschule vor. Auch hier
 unterstützt der Förderverein mit T-Shirts und Taschen.
- Die Kuithan-Kids sind unsere Kita-Fußballmannschaft.
+* Die Kuithan-Kids sind unsere Kita-Fußballmannschaft.
 Weitere Projekte und Aktionen
 Weiterhin freuen wir uns immer über Projekte und
 Aktionen, die wir unterstützen und initiieren können. Das
 sind z.B.
- besondere Projekte wie z.B. ein Kinderzirkus, der eine
+* besondere Projekte wie z.B. ein Kinderzirkus, der eine
 Woche bei uns gastierte
- Materialanschaffungen wie z.B. Stoff für Nähaktionen
- Anschaffung von neuen Kita-Spielgeräten (z.B. das
+* Materialanschaffungen wie z.B. Stoff für Nähaktionen
+* Anschaffung von neuen Kita-Spielgeräten (z.B. das
 Karussell in der Turnhalle oder viele Fahrzeuge, mit
 dem die Kinder über das Außengelände flitzen
 können)
