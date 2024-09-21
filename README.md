@@ -1,4 +1,4 @@
-# KiTaKu e.V
+# Förderverein der Kita Kuithanstr
 
 ## Wer wir sind ...
 Der Förderverein der Kindertageseinrichtung
