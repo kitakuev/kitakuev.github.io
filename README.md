@@ -1,6 +1,6 @@
 # Förderverein der Kita Kuithanstr
 
-DFörderverein der Kindertagesstätte Kuithanstraße e.V.
+Förderverein der Kindertagesstätte Kuithanstraße e.V.
 Kuithanstraße 40
 44137 Dortmund
 
