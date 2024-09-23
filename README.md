@@ -4,8 +4,9 @@ Förderverein der Kindertagesstätte Kuithanstraße e.V.
 Kuithanstraße 40
 44137 Dortmund
 
-Telefon: 0231 - 28665390
-E-Mail: kitaku40@gmail.com
+Telefon:    0231 - 28665390
+E-Mail:     kitaku40@gmail.com
+
 ### Vorstand
 1. Vorsitzender: Michel Boße
 2. Vorsitzende: Johanna Schwerdt
