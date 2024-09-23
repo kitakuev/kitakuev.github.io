@@ -4,20 +4,30 @@ Förderverein der Kindertagesstätte Kuithanstraße e.V.
 Kuithanstraße 40
 44137 Dortmund
 
-Telefon:    0231 - 28665390
-E-Mail:     kitaku40@gmail.com
+Telefon: 0231-28665390
+E-Mail: kitaku40@gmail.com
 
 ### Vorstand
-1. Vorsitzender: Michel Boße
-2. Vorsitzende: Johanna Schwerdt
-Kassierer: Dennis Waltmann
+
+#### 1\. Vorsitzender
+Michel Boße
+
+#### 2\. Vorsitzende
+Johanna Schwerdt
+
+#### Kassierer
+Dennis Waltmann
 
 ### Bankverbindung
-IBAN: DE56440501990211019514
-BIC: DORTDE33
+#### IBAN
+DE56440501990211019514
+#### BIC
+DORTDE33
+
+#### Kreditinstitut
 Stadtsparkasse Dortmund
 
-
+### Gemeinnützigkeit
 Die Gemeinnützigkeit des Fördervereins ist durch das Finanzamt
 Dortmund anerkannt. Auf Wunsch stellen wir gerne eine
 Steuerbescheingung aus.
