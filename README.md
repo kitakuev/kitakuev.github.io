@@ -26,6 +26,3 @@ Der Förderverein der Kindertageseinrichtung Kuithanstraße 40 (KiTaKu e.V.) ent
 Die Mitglieder sind vor allem Eltern von Kindern, die aktuell die Kita besuchen, aber zum Beispiel auch Ehemalige, Großeltern, oder Menschen aus der Nachbarschaft der Einrichtung.
 
 Der Vorstand besteht aus zwei Vorsitzenden und einer Kassiererin. Das Geschäftsjahr des KiTaKu e.V. ist das Kitajahr und endet jeweils am 31. Juli. Einmal im Jahr findet eine Mitgliederversammlung statt, zu der alle Mitglieder herzlich eingeladen sind.
-
-## Ja, ich mache mit
-Ich möchte Mitglied werden und den Zweck des Fördervereins KiTaKu e.V. unterstützen.
