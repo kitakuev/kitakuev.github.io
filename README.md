@@ -1,5 +1,29 @@
 # Förderverein der Kita Kuithanstr
+    Förderverein der Kindertagesstätte Kuithanstraße e.V.
+    Kuithanstraße 40
+    44137 Dortmund
 
+<<<<<<< HEAD
+## Vorstand
+### 1. Vorsitzende
+Johanna Schwerdt
+### 2. Vorsitzende
+Franziska Ahrens
+### Kassiererin
+Carla Sasse
+
+### Bankverbindung
+Sparkasse Dortmund
+### IBAN 
+DE56 4405 0199 0211 0195 14
+### BIC 
+DORTDE33
+
+## Was wir tun und wer wir sind
+Vereinsziel ist es, die Betreuung der Kinder in unserer Kita optimal zu fördern. Wir unterstützen Projekte der Kita, damit diese kontinuierlich durchgeführt werden können. Außerdem freuen wir uns über eure Ideen und Aktionen, die wir gemeinsam initiieren können. Alle Mitglieder und Eltern sind stets willkommen sich zu engagieren!
+
+Der Förderverein der Kindertageseinrichtung Kuithanstraße 40 (KiTaKu e.V.) entstand im Jahr 2004 aus einer Elterninitiative. Über die Jahre entwickelte sich in Zusammenarbeit mit der Leitung, dem Personal und dem Elternrat eine engagierte Vereinsarbeit. So konnten und können wir eine Vielzahl von Projekten realisieren.
+=======
 Förderverein der Kindertagesstätte Kuithanstraße e.V.
 Kuithanstraße 40
 44137 Dortmund
@@ -40,37 +64,13 @@ den Bestimmungen der europäischen Datenschutz-
 Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz. Mit
 Austritt werden alle personenbezogenen Daten gelöscht.
 Stand: Januar 2024
+>>>>>>> develop
 
-## Wer wir sind ...
-Der Förderverein der Kindertageseinrichtung
-Kuithanstraße (KiTaKu e.V.) entstand im Jahr 2004
-aus einer Elterninitiative.
-Über die Jahre entwickelte sich in Zusammenarbeit
-mit der Leitung und dem Personal der
-Kindertageseinrichtung eine engagierte
-Vereinsarbeit. So konnten und können wir eine
-Vielzahl von Projekten realisieren.
-### Der Verein
-KiTaKu e.V. hat zur Zeit rund 70 Mitglieder. Dies
-sind vor allem Eltern von Kindern, die aktuell die
-Kindertageseinrichtung besuchen, aber z.B. auch
-Ehemalige, Großeltern oder Menschen aus der
-Nachbarschaft der Einrichtung.
-Der Vorstand besteht aus zwei Vorsitzenden und
-einer Kassiererin.
-Das Geschäftsjahr des Fördervereins ist das Kita-Jahr
-und endet jeweils am 31. August. Einmal im Jahr
-findet die Vollversammlung statt, zu der alle
-Mitglieder herzlich eingeladen sind.
-### Enge Zusammenarbeit
-Wir arbeiten eng mit dem Elternrat der Einrichtung
-zusammen und schaffen so eine hohe
-Informationsdichte für alle Eltern.
-Konkret werden durch uns u.a. Vorhaben und
-Projekte, sowie Anschaffungen, die nicht aus Mitteln
-der Kindertageseinrichtung finanziert werden
-können, schnell und unbürokratisch begleitet.
+Die Mitglieder sind vor allem Eltern von Kindern, die aktuell die Kita besuchen, aber zum Beispiel auch Ehemalige, Großeltern, oder Menschen aus der Nachbarschaft der Einrichtung.
 
+<<<<<<< HEAD
+Der Vorstand besteht aus zwei Vorsitzenden und einer Kassiererin. Das Geschäftsjahr des KiTaKu e.V. ist das Kitajahr und endet jeweils am 31. Juli. Einmal im Jahr findet eine Mitgliederversammlung statt, zu der alle Mitglieder herzlich eingeladen sind.
+=======
 ## Was wir tun ...
 Wir unterstützen fortlaufend folgende Projekte, damit
 diese zuverlässig und kontinuierlich durchgeführt werden
@@ -130,3 +130,4 @@ Mitgliederbeiträge: mit nur einem Euro pro Monat wird
 die Arbeit des Vereins aktiv unterstützt.
 Der Jahresbeitrag von insgesamt 12 Euro wird einmalig
 pro Jahr erhoben.
+>>>>>>> develop
