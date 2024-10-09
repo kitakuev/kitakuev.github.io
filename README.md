@@ -1,9 +1,10 @@
 ![logo](files/Logo_Kitaku.png)
 
 # Förderverein der FABIDO TEK Kuithanstr. 40
-    Förderverein der Kindertagesstätte Kuithanstraße e.V.
-    Kuithanstraße 40
-    44137 Dortmund
+
+Förderverein der Kindertagesstätte Kuithanstraße e.V.
+Kuithanstraße 40
+44137 Dortmund
 
 ## Vorstand
 ### 1. Vorsitzende
